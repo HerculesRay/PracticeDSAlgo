@@ -1,4 +1,4 @@
-package com.test;
+package com.Backtracking;
 
 public class KnightMoves{
     int[][] ch;
